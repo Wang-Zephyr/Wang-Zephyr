@@ -20,7 +20,8 @@ These changes have been merged upstream. Projects are ordered by GitHub stars.
 
 | Project | Stars | Merged contribution |
 | :--- | :--- | :--- |
-| [OpenClaw](https://github.com/openclaw/openclaw) | [![OpenClaw stars](https://img.shields.io/github/stars/openclaw/openclaw?style=flat-square&label=Stars&color=EAB308)](https://github.com/openclaw/openclaw/stargazers) | [Restore native process detection when launchctl omits its header](https://github.com/openclaw/openclaw/pull/194106) |
+| [OpenClaw](https://github.com/openclaw/openclaw) | [![OpenClaw stars](https://img.shields.io/github/stars/openclaw/openclaw?style=flat-square&label=Stars&color=EAB308)](https://github.com/openclaw/openclaw/stargazers) | [Preserve Feishu attachment filenames containing semicolons](https://github.com/openclaw/openclaw/pull/196097)<br>[Restore native process detection on macOS](https://github.com/openclaw/openclaw/pull/194106) |
+| [DeerFlow](https://github.com/bytedance/deer-flow) | [![DeerFlow stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=flat-square&label=Stars&color=EAB308)](https://github.com/bytedance/deer-flow/stargazers) | [Count model calls independently of reused message IDs](https://github.com/bytedance/deer-flow/pull/8050) |
 | [NiceGUI](https://github.com/zauberzeug/nicegui) | [![NiceGUI stars](https://img.shields.io/github/stars/zauberzeug/nicegui?style=flat-square&label=Stars&color=EAB308)](https://github.com/zauberzeug/nicegui/stargazers) | [Prevent outdated asynchronous validation results](https://github.com/zauberzeug/nicegui/pull/6455) |
 | [Dify Plugins](https://github.com/langgenius/dify-official-plugins) | [![Dify Plugins stars](https://img.shields.io/github/stars/langgenius/dify-official-plugins?style=flat-square&label=Stars&color=EAB308)](https://github.com/langgenius/dify-official-plugins/stargazers) | [Close embedded QR-code image files before cleanup](https://github.com/langgenius/dify-official-plugins/pull/4162) |
 
