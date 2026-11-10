@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="260" viewBox="0 0 960 260" role="img" aria-labelledby="title desc">
+  <title id="title">Zephyr, AI Agent Developer</title>
+  <desc id="desc">A dark terminal window with a small pixel Pac-Man and green contribution squares.</desc>
+  <rect width="960" height="260" rx="18" fill="#0b1220"/>
+  <rect x="1" y="1" width="958" height="258" rx="17" fill="none" stroke="#2b3c50" stroke-width="2"/>
+  <path d="M18 1h924a17 17 0 0 1 17 17v36H1V18A17 17 0 0 1 18 1Z" fill="#152232"/>
+  <circle cx="28" cy="28" r="6" fill="#f87171"/>
+  <circle cx="49" cy="28" r="6" fill="#fbbf24"/>
+  <circle cx="70" cy="28" r="6" fill="#4ade80"/>
+  <text x="480" y="34" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#9fb5c8">zephyr@github:~</text>
+  <text x="42" y="104" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="19" fill="#65e6b9">$ whoami</text>
+  <text x="42" y="153" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="34" font-weight="700" fill="#f1f5f9">Hi, I'm Zephyr.</text>
+  <text x="42" y="191" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="19" fill="#bdcad7">AI Agent Developer · Open-source Contributor</text>
+  <text x="42" y="226" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#7e9bad">Shenzhen, China  /  build · test · ship</text>
+  <g shape-rendering="crispEdges">
+    <path d="M688 86h36v10h16v12h12v12h10v10h-34v12h34v10h-10v12h-12v12h-16v10h-36v-10h-16v-12h-12v-12h-10v-32h10v-12h12V96h16Z" fill="#facc15"/>
+    <rect x="703" y="110" width="10" height="10" fill="#0b1220"/>
+    <rect x="788" y="126" width="14" height="14" fill="#b7f7c1"/>
+    <rect x="818" y="126" width="14" height="14" fill="#7adb9d"/>
+    <rect x="848" y="126" width="14" height="14" fill="#39ad72"/>
+    <rect x="878" y="126" width="14" height="14" fill="#23764e"/>
+  </g>
+</svg>
+
