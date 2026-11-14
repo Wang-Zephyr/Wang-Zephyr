@@ -11,19 +11,19 @@
 
 ### `$ whoami`
 
-I build AI agents and developer tools, with a focus on integrations that behave reliably when things go wrong. I contribute upstream fixes with clear reproductions and regression tests.
+I build AI agents and developer tools. My open-source work focuses on agent runtime behavior, scheduling, memory, and integrations. I contribute fixes with reproducible cases and regression tests.
 
 📍 Shenzhen, China &nbsp;·&nbsp; ✉️ [Zephyr05Wang@qq.com](mailto:Zephyr05Wang@qq.com)
 
 ### `$ git log --merged`
 
-Selected upstream contributions, ordered by project stars as of 13 November 2026. Star badges update automatically.
+15 merged upstream PRs across 5 projects as of 14 November 2026.
 
 | Project | Stars | Merged PRs |
 | :--- | :--- | :--- |
-| [OpenClaw](https://github.com/openclaw/openclaw) | [![OpenClaw stars](https://img.shields.io/github/stars/openclaw/openclaw?style=flat-square&label=Stars&color=EAB308)](https://github.com/openclaw/openclaw/stargazers) | [Preserve Feishu attachment filenames containing semicolons](https://github.com/openclaw/openclaw/pull/196097)<br>[Restore native process detection on macOS](https://github.com/openclaw/openclaw/pull/194106) |
+| [OpenClaw](https://github.com/openclaw/openclaw) | [![OpenClaw stars](https://img.shields.io/github/stars/openclaw/openclaw?style=flat-square&label=Stars&color=EAB308)](https://github.com/openclaw/openclaw/stargazers) | [Reject incompatible working-directory flags in cron edits](https://github.com/openclaw/openclaw/pull/198588)<br>[Preserve Feishu attachment filenames containing semicolons](https://github.com/openclaw/openclaw/pull/196097)<br>[Restore native process detection on macOS](https://github.com/openclaw/openclaw/pull/194106) |
 | [Dify](https://github.com/langgenius/dify) | [![Dify stars](https://img.shields.io/github/stars/langgenius/dify?style=flat-square&label=Stars&color=EAB308)](https://github.com/langgenius/dify/stargazers) | [Honor the local hostname during SMTP STARTTLS](https://github.com/langgenius/dify/pull/45909)<br>[Remove unnecessary sorting from pagination counts](https://github.com/langgenius/dify/pull/45735) |
-| [DeerFlow](https://github.com/bytedance/deer-flow) | [![DeerFlow stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=flat-square&label=Stars&color=EAB308)](https://github.com/bytedance/deer-flow/stargazers) | [Count model calls independently of reused message IDs](https://github.com/bytedance/deer-flow/pull/8050)<br>[Reject duplicate fact IDs during memory imports](https://github.com/bytedance/deer-flow/pull/8151)<br>[Require explicit facts in replacement imports](https://github.com/bytedance/deer-flow/pull/8131)<br>[Fall back to document delivery when Telegram rejects a photo](https://github.com/bytedance/deer-flow/pull/8056)<br>[Check recipient-level status for DingTalk file delivery](https://github.com/bytedance/deer-flow/pull/8089) |
+| [DeerFlow](https://github.com/bytedance/deer-flow) | [![DeerFlow stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=flat-square&label=Stars&color=EAB308)](https://github.com/bytedance/deer-flow/stargazers) | [Allow editing schedules with malformed stored intervals](https://github.com/bytedance/deer-flow/pull/8188)<br>[Count model calls independently of reused message IDs](https://github.com/bytedance/deer-flow/pull/8050)<br>[Reject duplicate fact IDs during memory imports](https://github.com/bytedance/deer-flow/pull/8151)<br>[Require explicit facts in replacement imports](https://github.com/bytedance/deer-flow/pull/8131)<br>[Fall back to document delivery when Telegram rejects a photo](https://github.com/bytedance/deer-flow/pull/8056)<br>[Check recipient-level status for DingTalk file delivery](https://github.com/bytedance/deer-flow/pull/8089) |
 | [NiceGUI](https://github.com/zauberzeug/nicegui) | [![NiceGUI stars](https://img.shields.io/github/stars/zauberzeug/nicegui?style=flat-square&label=Stars&color=EAB308)](https://github.com/zauberzeug/nicegui/stargazers) | [Prevent outdated asynchronous validation results](https://github.com/zauberzeug/nicegui/pull/6455) |
 | [Dify Plugins](https://github.com/langgenius/dify-official-plugins) | [![Dify Plugins stars](https://img.shields.io/github/stars/langgenius/dify-official-plugins?style=flat-square&label=Stars&color=EAB308)](https://github.com/langgenius/dify-official-plugins/stargazers) | [Close embedded QR-code files before cleanup](https://github.com/langgenius/dify-official-plugins/pull/4162)<br>[Preserve significant whitespace in regex extraction](https://github.com/langgenius/dify-official-plugins/pull/4160)<br>[Apply JSON replacements to root values](https://github.com/langgenius/dify-official-plugins/pull/4158) |
 
